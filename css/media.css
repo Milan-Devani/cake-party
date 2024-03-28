@@ -1,0 +1,1039 @@
+@media (min-width: 0px) and (max-width: 375px) {
+
+    /* .navbar .container .navbar-brand {
+        width: 130px;
+    }
+
+    .navbar-toggler {
+        padding: 3px 8px !important;
+    } */
+
+    /* mighty */
+
+    .mighty-section {
+        padding-top: 15px;
+    }
+
+    .mighty-main {
+        height: auto;
+        padding: 0;
+        flex-wrap: wrap;
+    }
+
+    .mighty .container .row .mighty-sub-content {
+        padding: 40px;
+    }
+
+    .mighty .container .row .mighty-sub-content h1 {
+        font-size: 40px;
+        margin: 12px auto;
+    }
+
+    .mighty .container .row .mighty-main-content p {
+        font-size: 17px;
+    }
+
+    .mighty-main .mighty-icon {
+        width: 30px;
+        right: 7%;
+        bottom: 15px;
+        height: 30px;
+        border-radius: 50%;
+        background-color: #fff;
+    }
+
+    .mighty-main .mighty-icon i {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        left: 50%;
+        color: #000;
+    }
+
+    /* about */
+
+    .about-item .container h2 {
+        font-size: 27px;
+    }
+
+    .about-item .container .row .about-box {
+        width: 90%;
+        margin: 20px auto;
+        padding: 0;
+    }
+
+    .about-item .container .row .about-box .about-item-img {
+        height: 225px;
+    }
+
+    .about-item .container .row .about-box .about-detail p {
+        font-size: 20px;
+    }
+
+    /* categories */
+
+    .about-item .row>* {
+        margin: 12px auto;
+    }
+
+    .row>* {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    /* .categories-main{
+        width: fit-content;
+    } */
+
+    .categories .container .row .categories-sub .categories-sub-img {
+        width: 90px;
+        height: 90px;
+    }
+
+    .categories .container h2 {
+        font-size: 27px;
+    }
+
+    .categories .container .row .categories-sub .categories-sub-type h2 {
+        font-size: 17px;
+    }
+
+    /* deliciousness */
+
+    .deliciousness {
+        padding: 90px 0;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about h2 {
+        font-size: 55px;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about p {
+        font-size: 14px;
+    }
+
+    .input-group>.form-control {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .input-group-text {
+        font-size: 18px;
+        color: #fff;
+        width: 100%;
+        text-align: center;
+        display: inline-grid;
+    }
+
+    form p {
+        font-size: 15px;
+    }
+
+    /* collection */
+
+    .collection .container h2 {
+        font-size: 27px;
+    }
+
+    .collection .container .row .col-lg-6 {
+        width: 90%;
+    }
+
+    .collection .container .row .card .card-img-top {
+        height: 210px;
+    }
+
+    .collection .container .row .card-main .card-box {
+        display: block !important;
+    }
+
+    .collection .container .row .card {
+        margin: 50px auto !important;
+    }
+
+    .collection .container .row .card:hover {
+        margin-top: -30px !important;
+        margin-bottom: 70px !important;
+    }
+
+    .collection .container .row .card .card-body h3 {
+        font-size: 19px;
+        width: 200px;
+    }
+
+    /* latest */
+
+    .latest .container .row {
+        margin: 0;
+    }
+
+    .latest .lates-main .lates-recipe .card {
+        width: 45%;
+        margin: 15px auto !important;
+    }
+
+    .latest .lates-main .lates-recipe .card:hover {
+        margin-top: 0px !important;
+        margin-bottom: 30px !important;
+    }
+
+    .latest .container .lates-recipe .card .lates-img {
+        height: 115px;
+    }
+
+    .latest .container h2 {
+        font-size: 30px;
+    }
+
+    .latest .container .lates-recipe .card .lates-titel h2 {
+        font-size: 14px;
+    }
+
+    .lates-main .btn {
+        padding: 8px 25px;
+        font-size: 14px;
+    }
+
+    /* footer */
+
+    footer .container .row .footer-main {
+        display: block;
+    }
+
+    footer .container .row .footer-part ul {
+        padding-left: 0 !important;
+    }
+
+    footer .container .row .footer-sub .footer-part-logo {
+        width: 200px;
+        height: auto;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+
+    footer .container .row .footer-sub .footer-part-detil {
+        margin-bottom: 25px !important;
+    }
+
+    footer .container .row .footer-sub .footer-part-detil p {
+        font-size: 13px;
+        text-align: justify;
+    }
+
+    footer .container .row .footer-part h2 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    footer .container .row .footer-part p {
+        font-size: 17px;
+    }
+
+    /* footer-sub */
+
+    .footer-sub  .col-sm-6{
+        margin: 0 !important;
+    }
+
+    .footer-sub .container .footer-sub-main .footer-sub-part-1{
+        margin: 0 !important;
+    }
+
+    .footer-sub .container .footer-sub-main {
+        flex-wrap: wrap-reverse;
+    }
+
+    .footer-sub .container .footer-sub-main .footer-sub-icon {
+        padding-top: 0 !important;
+    }
+
+    .footer-sub .container .footer-sub-main .footer-sub-part-1 {
+        padding-top: 0 !important;
+    }
+
+    .footer-sub .container .row .footer-sub-part-1 p {
+        font-size: 12px;
+        text-align: left;
+    }
+
+    .footer-sub .container .footer-sub-icon ul {
+        margin: 0 !important;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 576px) {
+    .row>* {
+        width: fit-content;
+        margin: 0 auto;
+    }
+
+    /* mighty */
+
+    .mighty-section {
+        padding: 10px;
+    }
+
+    /* .mighty-section {
+        padding: 10px;
+        padding-top: 80px;
+    } */
+
+    .mighty-main {
+        display: block !important;
+        height: auto;
+    }
+
+    .mighty .container .row .mighty-sub-content {
+        padding: 30px;
+    }
+
+    .mighty .container .row .mighty-sub-content h2 {
+        font-size: 15px;
+    }
+
+    .mighty .container .row .mighty-sub-content h1 {
+        font-size: 43px;
+    }
+
+    .mighty .container .row .mighty-main-content p {
+        font-size: 18px;
+    }
+
+    .mighty-main .mighty-icon {
+        right: 2%;
+    }
+
+    /* about */
+
+    .about-item .container h2 {
+        font-size: 42px;
+    }
+
+    .about-item .container .row .about-box {
+        margin: 18px auto;
+        width: 88%;
+    }
+
+    .about-item .container .row .about-box .about-item-img {
+        height: 300px;
+    }
+
+    .about-mid-tit {
+        margin: 40px 0 !important;
+    }
+
+    .about-mid-tit h2 {
+        font-size: 42px;
+    }
+
+    /* categories */
+
+    .categories .container h2 {
+        font-size: 42px;
+    }
+
+    .categories .container .row .categories-sub .categories-sub-img {
+        width: 120px;
+        height: 120px;
+        /* margin: 0 auto !important; */
+    }
+
+    /* deliciousness */
+
+    /* .deliciousness .deliciousness-main .container .deliciousness-sub {
+        width: 55%;
+    } */
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about p {
+        font-size: 16px;
+    }
+
+    form p {
+        font-size: 11px;
+    }
+
+    /* collection */
+
+    .collection .container h2 {
+        font-size: 42px;
+    }
+
+    .collection .container .row .col-lg-6 {
+        width: 88%;
+        margin: 50px auto !important;
+    }
+
+    .collection .container .row .card-box {
+        display: block !important;
+    }
+
+    /* latest */
+
+    .latest .container h2 {
+        font-size: 42px;
+    }
+
+    /* .latest .container{
+        padding: 0 !important;
+    } */
+
+    .latest .lates-main {
+        padding: 0 12px !important;
+    }
+
+    .latest .lates-main .lates-recipe .card {
+        width: 29.7%;
+        margin: 25px auto !important;
+    }
+
+    .latest .lates-main .lates-recipe .card:hover {
+        margin-top: 0px !important;
+        margin-bottom: 40px !important;
+    }
+
+    .latest .container .lates-recipe .card .lates-img {
+        height: 120px;
+    }
+
+    .latest .container .lates-recipe .card .lates-titel h2 {
+        font-size: 14px;
+    }
+
+    .lates-main .btn {
+        padding: 10px 35px;
+    }
+
+    /* footer */
+
+    footer {
+        padding-bottom: 0;
+    }
+
+    footer .container .row .footer-part-1 {
+        margin-bottom: 30px;
+    }
+
+    footer .container .row .footer-part ul {
+        padding-left: 0;
+    }
+
+    /* footer-sub */
+
+    .footer-sub-part-1 {
+        margin: 0 !important;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+    /* .row>* {
+        width: fit-content;
+        margin: 0 auto;
+    } */
+
+    .container {
+        max-width: 580px;
+        padding: 0 !important;
+    }
+
+    .mighty-main {
+        display: block !important;
+        height: auto;
+    }
+
+    .mighty .container .row .mighty-sub-content {
+        padding: 40px;
+    }
+
+    .mighty .container .row .mighty-sub-content h2 {
+        font-size: 19px;
+    }
+
+    .mighty .container .row .mighty-sub-content p {
+        font-size: 22px;
+    }
+
+    /* about */
+
+    .about-item .container h2 {
+        font-size: 45px;
+    }
+
+    .about-item .container .row .about-box {
+        margin: 25px auto;
+        width: 100%;
+    }
+
+    .about-item .container .row .about-box .about-item-img {
+        height: 312px;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    /* form */
+
+    .input-group {
+        width: 360px;
+        margin: 10px auto;
+    }
+
+    /* categories */
+
+    .categories .container h2 {
+        font-size: 45px;
+    }
+
+    /* collection */
+
+    .collection .container h2 {
+        font-size: 45px;
+    }
+
+    .collection .container .row .col-lg-6 {
+        width: auto;
+        margin: 50px auto !important;
+    }
+
+    .collection .container .row .col-lg-6:hover {
+        margin-top: -20px !important;
+        margin-bottom: 70px !important;
+    }
+
+    .collection .container .row .card-box {
+        display: block !important;
+    }
+
+    /* latest */
+
+    .latest .lates-main .lates-recipe .card {
+        margin: 24px auto !important;
+        width: 47.5%;
+    }
+
+    .latest .lates-main .lates-recipe .card:hover {
+        margin-top: 0 !important;
+        margin-bottom: 40px !important;
+    }
+
+    .latest .container .lates-recipe .card .lates-img {
+        height: 190px;
+    }
+
+    /* .footer-part-1 {
+        margin-top: 50px !important;
+    }
+
+    footer .container .row .footer-main .footer-part-3{
+        margin-top: 50px !important;
+        padding-top: 50px !important;
+    }
+
+    .footer-part-4{
+        margin-top: 50px !important;
+    } */
+
+    .footer-part-2,
+    .footer-part-3,
+    .footer-part-4 {
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .container {
+        max-width: 768px;
+        margin: 0 auto !important;
+    }
+
+    /* nav .navbar{
+        max-width: 768px;
+    }
+
+    .navbar .logo {
+        width: 180px;
+        height: 53px;
+    }
+
+    nav .navbar .links li a {
+        font-size: 14px;
+    }
+
+    nav .navbar .links li .arrow {
+        font-size: 12px;
+    } */
+
+    /* mighty */
+
+    .mighty .container .row .mighty-sub-content {
+        padding: 40px;
+    }
+
+    .mighty .container .row .mighty-main {
+        height: auto;
+    }
+
+    .mighty .container .row .mighty-main .mighty-main-content {
+        width: 41.67%;
+    }
+
+    .mighty .container .row .mighty-main-img {
+        width: 58.33%;
+    }
+
+    .mighty .container .row .mighty-sub-content h2 {
+        font-size: 12px;
+    }
+
+    .mighty .container .row .mighty-sub-content h1 {
+        font-size: 31px;
+    }
+
+    .mighty .container .row .mighty-main-content p {
+        font-size: 14px;
+        line-height: 1.3;
+    }
+
+    /* about */
+
+    .about-item .container h2 {
+        font-size: 43px;
+        font-weight: 700;
+    }
+
+    .about-item .container .row .about-box {
+        margin: 20px auto;
+        width: 46%;
+        padding: 0;
+    }
+
+    .about-item .container .row .about-box-3, .about-item .container .row .about-box-6{
+        margin-top: 40px !important;
+    }
+
+    /* categories */
+
+    .categories .container h2 {
+        font-size: 43px;
+    }
+
+    .categories .container .row .categories-sub .categories-sub-img {
+        width: 200px;
+        height: 200px;
+    }
+
+    /* deliciousness */
+
+    .deliciousness {
+        padding: 110px 0;
+    }
+
+    .input-group {
+        width: 340px;
+        margin: 20px auto;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    /* collection */
+
+    .collection .container h2 {
+        font-size: 43px;
+    }
+
+    .collection .container .row .card-box {
+        display: block !important;
+    }
+
+    .collection .container .row .col-lg-6 {
+        width: 90%;
+        margin: 20px auto !important;
+    }
+
+    .collection .container .row .card .card-body h3 {
+        font-size: 30px;
+        width: 512px;
+    }
+
+    /* latest */
+
+    .latest .container h2 {
+        font-size: 43px;
+    }
+
+    .latest .lates-main .lates-recipe .card {
+        width: 31%;
+        margin: 25px auto !important;
+    }
+
+    .latest .lates-main .lates-recipe .card:hover {
+        margin-top: 0px !important;
+        margin-bottom: 50px !important;
+    }
+
+    .latest .container .lates-recipe .card .lates-img {
+        height: 160px;
+    }
+
+
+
+    .footer-part-2,
+    .footer-part-3,
+    .footer-part-4 {
+        margin-top: 50px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+    .container {
+        max-width: 992px;
+        margin: 0 auto !important;
+    }
+
+    .mighty-main {
+        height: auto;
+    }
+
+    .mighty .container .row .mighty-sub-content {
+        padding: 40px;
+    }
+
+    .mighty .container .row .mighty-sub-content h2 {
+        font-size: 16px;
+    }
+
+    .mighty .container .row .mighty-sub-content h1 {
+        font-size: 46px;
+    }
+
+    .mighty .container .row .mighty-main-content p {
+        font-size: 20px;
+        line-height: 1.3;
+    }
+
+    /* about */
+
+    .about-item .container .row .about-box {
+        margin: 0 auto;
+    }
+
+    .categories .container .row .categories-sub .categories-sub-img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .deliciousness {
+        padding: 130px 0;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about h2 {
+        font-size: 50px;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about p {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    form {
+        margin: 15px auto;
+    }
+
+    form p {
+        font-size: 13px;
+    }
+
+    /* collection */
+
+    .collection .container h2 {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .collection .container .row .col-lg-6 {
+        margin: 0 auto !important;
+    }
+
+    .collection .container .row .card .card-img-top {
+        height: 290px;
+    }
+
+    .collection .container .row .card-box {
+        margin-top: 50px !important;
+    }
+
+    .collection .container .row .card:hover {
+        margin-top: -20px !important;
+        margin-bottom: 20px !important;
+    }
+
+    /* latest */
+
+    .latest .container h2 {
+        font-size: 48px;
+    }
+
+    .latest .lates-main .lates-recipe .card {
+        width: 31%;
+        margin: 20px auto !important;
+    }
+
+    .latest .container .lates-recipe .card .lates-titel h2 {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+
+    .navbar .container{
+        width: 100%;
+    }
+
+    .container {
+        width: auto;
+        margin: 0 auto !important;
+    }
+
+    .mighty-main {
+        height: auto;
+        padding: 0;
+    }
+
+    .mighty .container .row .mighty-sub-content {
+        padding: 50px;
+    }
+
+    .mighty .container .row .mighty-sub-content h1 {
+        font-size: 50px;
+    }
+
+    .mighty .container .row .mighty-main-content p {
+        font-size: 22px;
+    }
+
+    /* deliciousness */
+
+    .deliciousness {
+        padding: 160px 0px;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about h2 {
+        font-size: 56px;
+    }
+
+    .deliciousness-main .container .deliciousness-sub .deliciousness-about p {
+        font-size: 14px;
+    }
+
+    form{
+        margin-top: 30px;
+    }
+
+    /* latest */
+
+    .latest .container .lates-recipe .card .lates-img {
+        height: 210px;
+    }
+}
+
+
+/* only header */
+
+
+@media (max-width:920px) {
+    /* nav .navbar {
+        max-width: 100%;
+        padding: 0 15px;
+    } */
+
+    nav .navbar .logo a {
+        font-size: 27px;
+    }
+
+    nav .navbar .links li {
+        padding: 0 10px;
+        white-space: nowrap;
+    }
+
+    nav .navbar .links li a {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:800px) {
+
+    nav .navbar{
+        max-width: 768px;
+    }
+
+    .navbar .logo {
+        width: 180px;
+        height: 53px;
+    }
+
+    nav .navbar .links li a {
+        font-size: 14px;
+    }
+
+    nav .navbar .links li .arrow {
+        font-size: 12px;
+    }
+
+    /* .navbar .logo {
+        width: 180px;
+        height: 60px;
+    } */
+
+    nav .navbar{
+        margin: 0;
+        height: auto;
+        padding: 15px 10px;
+    }
+
+    nav {
+        position: relative;
+    }
+
+    .navbar .bx-menu {
+        display: block;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #000;
+        border-radius: 5px
+    }
+
+    nav .navbar .nav-links {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        display: block;
+        max-width: 100%;
+        width: 100%;
+        height: 270px;
+        background: #fff;
+        line-height: 40px;
+        padding: 20px;
+        /* box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); */
+        transition: all 0.5s ease;
+        z-index: 1000;
+    }
+
+    .navbar .nav-links .sidebar-logo {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .sidebar-logo .logo-name {
+        font-size: 25px;
+        color: #fff;
+    }
+
+    .sidebar-logo i,
+    .navbar .bx-menu {
+        font-size: 25px;
+        color: #000;
+    }
+
+    nav .navbar .links {
+        display: block;
+        margin-top: 20px;
+    }
+
+    nav .navbar .links li .arrow {
+        line-height: 40px;
+    }
+
+    nav .navbar .links li {
+        display: block;
+    }
+
+    nav .navbar .links li .sub-menu {
+        position: relative;
+        top: 0;
+        box-shadow: none;
+        display: none;
+    }
+
+    nav .navbar .links li .sub-menu li {
+        border-bottom: none;
+
+    }
+
+    .navbar .links li .sub-menu .more-sub-menu {
+        display: none;
+        position: relative;
+        left: 0;
+    }
+
+    .navbar .links li .sub-menu .more-sub-menu li {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .links li:hover .htmlcss-arrow,
+    .links li:hover .js-arrow {
+        transform: rotate(0deg);
+    }
+
+    .navbar .links li .sub-menu .more-sub-menu {
+        display: none;
+    }
+
+    .navbar .links li .sub-menu .more span {
+        /* background: red; */
+        display: flex;
+        align-items: center;
+        /* justify-content: space-between; */
+    }
+
+    .links li .sub-menu .more:hover .more-sub-menu {
+        display: none;
+    }
+
+    nav .navbar .links li:hover .htmlCss-sub-menu,
+    nav .navbar .links li:hover .js-sub-menu {
+        display: none;
+    }
+
+    .navbar .nav-links.show1 .links .htmlCss-sub-menu,
+    .navbar .nav-links.show3 .links .js-sub-menu,
+    .navbar .nav-links.show2 .links .more .more-sub-menu {
+        display: block;
+    }
+
+    .navbar .nav-links.show1 .links .htmlcss-arrow,
+    .navbar .nav-links.show3 .links .js-arrow {
+        transform: rotate(180deg);
+    }
+
+    .navbar .nav-links.show2 .links .more-arrow {
+        transform: rotate(90deg);
+    }
+}
+
+@media (max-width:576px){
+    nav .navbar{
+        height: 70px;
+    }
+}
+
+@media (max-width:370px) {
+
+    .navbar .container .navbar-brand {
+        width: 130px;
+    }
+
+    .navbar-toggler {
+        padding: 3px 8px !important;
+    }
+
+    nav .navbar .nav-links {
+        max-width: 100%;
+    }
+}
